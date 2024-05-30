@@ -1,0 +1,4 @@
+El código del archivo que adjunto llamado login.py crea una ventana de logueo que viene acompañado de la imagen logo.png que aparece en la ventana. Recuerden colocar los dos archivos dentro de la carpeta de visual studio code.
+Teniendo una lista llamada usuarios que contiene la informacion de los usuarios y sus contraseñas que tienen permitido el acceso. Completar el código faltante para que si ingresa una persona aceptada muestra un mensaje de bienvenida sino uno de denegado el acceso. Y si presiona el boton de registrarse le muestra un mensaje de que no se esta permitiendo registrar por el momento.
+
+usuarios=["Lucas","1234","Miusuario","abcd","Berlin","a1b2c3","Smario","luiggi"]
